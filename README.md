@@ -11,4 +11,4 @@ Leiden University
 - Neuroimaging
 - Motor learning
 - Aging and stroke
-- Music-based rehabilitation
+- Sensorimotor
