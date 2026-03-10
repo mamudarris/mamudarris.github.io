@@ -19,7 +19,7 @@ Perceptually embedded motor learning with multimodal cues.
 Dutch Society for Brain & Cognition Conference.  
 Egmond aan Zee, Netherlands — April 2022.  
 
-*Presenting author*
+(*)Presenting author*
 
 Mudarris, M. A., & Schaefer, R. S.  
 Examining exerted force in a music-cued finger tapping task: A multilevel approach.  
@@ -56,6 +56,10 @@ Dissociations between familiarity and preference ratings of music for healthy yo
 ICMPC16 / ESCOM11.  
 Sheffield, UK — July 2021.
 
+Mudarris, M. A., & Schaefer, R. S.  
+Predictors of exerted force in a music-cued sensorimotor synchronization task.  
+Neuroscience of Music VII.  
+Aarhus, Denmark — June 2021.
 
 ---
 
@@ -68,8 +72,3 @@ Cincinnati, USA — November 2023.
 “Neuropsychological Assessment of Psychosomatic Disorders.”  
 Psychosomatic Review Course, King Abdullah Medical City.  
 Makkah, Saudi Arabia — October 2023.
-
-Mudarris, M. A., & Schaefer, R. S.  
-Predictors of exerted force in a music-cued sensorimotor synchronization task.  
-Neuroscience of Music VII.  
-Aarhus, Denmark — June 2021.
