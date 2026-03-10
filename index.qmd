@@ -1,6 +1,7 @@
 ---
 title: "Home"
 ---
+![](Self_portrait.JPG){width=220px}
 
 # Mohammed Mudarris
 
@@ -10,27 +11,37 @@ Institute of Psychology
 Faculty of Social and Behavioural Sciences
 Leiden University
 
-PhD candidate in Health-Medical Neuropsychology at Leiden University. Clinical Neuropsychology, MSc (cum laude; Leiden University). Biopsychology, B.S. (University of California–Santa Barbara). 
+My research focuses on neuroplasticity of motor learning with multisensory stimulation in aging and neurological disease. Using multimodal MRI methods, I examine structural, functional, and network-level brain changes associated with motor learning and rehabilitation.  
 
-Research focuses on neuroplasticity of motor-learning with multisensory stimulation in aging and disease. Using multimodal MRI methods to reveal structural, functional and network brain changes, as well as standardized measures of cognitive, motor and psychological functioning before and after motor learning with multi-sensory (audiovisual) stimulation.
+I am clinically trained in presurgical neuropsychological assessment, with experience in Wada testing, functional cortical mapping, and cognitive rehabilitation across a range of neurological and neuropsychiatric conditions, including epilepscy, acquired brain injury, neurodengerative (Parkinson's disease, dementia), and neurodevelopmental disorders (ADHD, autism).
 
-Clinically trained in neuropsychological evaluation of Epilepsy, acquired brain injuries, neurodegenerative (Parkinson’s Disease, Dementia), neurodevelopmental (Autism, ADHD), neuropsychiatric, genetic and rare conditions. Contributed to clinical management of candidates for neurosurgery, with experience in Wada test and functional cortical mapping. 
-
-Formerly, an administrative manager in multidisciplinary mental health care. 
 ## Research Interests
 
 - Neuroimaging
 - Motor learning & cognition
 - Aging and stroke
-- Music-based rehabilitation
 - Multisensory stimulation
+- Music-based rehabilitation
 - Cognitive-motor interference
 - Hierarchical modelling
 
-## Pages
+---
 
-- [Research](research)
-- [Publications](publications)
-- [Presentations](presentations)
-- [CV](cv)
-- [Contact](contact)
+## Links
+
+[OSF]([https://github.com/mamudarris](https://osf.io/e834b/))
+
+[Google Scholar](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en)
+
+[ORCID](https://orcid.org/0000-0003-3649-5423)
+
+[LinkedIn](https://www.linkedin.com/in/mamudarris/)
+
+[Bluesky](https://bsky.app/profile/mamudarris.bsky.social)
+
+[Twitter](https://x.com/mamudarris)
+
+---
+
+## Contact
+Email: mamudarris@gmail.com
