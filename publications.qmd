@@ -10,7 +10,7 @@ Cognitive and motor abilities predict auditory-cued finger tapping in a dual tas
 [doi:10.3389/fnins.2025.1553548](https://doi.org/10.3389/fnins.2025.1553548)
 [OSF](https://osf.io/pfhn3)
 
-Dimitriadis, T.[^1], **Mudarris, M. A.**[^1], Veldhuijzen, D. S., Evers, A. W. M., Magee, W. L., & Schaefer, R. S. (2024).  
+Dimitriadis, T., **Mudarris, M. A.**[^1], Veldhuijzen, D. S., Evers, A. W. M., Magee, W. L., & Schaefer, R. S. (2024).  
 Music therapy with adults in the subacute phase after stroke: A study protocol.  
 *Contemporary Clinical Trials Communications*, 41, 101340.  
 [doi:10.1016/j.conctc.2024.101340](https://doi.org/10.1016/j.conctc.2024.101340)
