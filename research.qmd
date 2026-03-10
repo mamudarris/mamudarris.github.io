@@ -1,0 +1,22 @@
+---
+title: Research
+---
+
+## Research Overview
+
+My research focuses on neuroplasticity of motor-learning with multisensory stimulation in aging and disease. Using multimodal MRI methods to reveal structural, functional and network brain changes, as well as standardized measures of cognitive, motor and psychological functioning before and after motor learning with multisensory stimulation. Generally, I am interested in the cognitive aspects of motor learning and recovery, how sensory input can guide and enhance motor output, and how movement and cognition interact in health and disease.
+
+## Methods
+
+- Structural / Diffusion MRI
+- Task and resting state fMRI
+- Longitudinal modelling of inter-individual variability
+- Neurocognitive and motor assessments
+
+## Current Projects
+
+### Neural correlates of multisensory stimulation in older adults
+Investigating how auditory cues influence motor learning and neural plasticity.
+
+### Stroke cognitive training and rehabilitation of upper-limbs with music 
+Examining Neuroplasticity and motivation underlying recovery in stroke patients.
