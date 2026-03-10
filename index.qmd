@@ -13,8 +13,6 @@ Leiden University
 
 My research focuses on neuroplasticity of motor learning with multisensory stimulation in aging and neurological disease. Using multimodal MRI methods, I examine structural, functional, and network-level brain changes associated with motor learning and rehabilitation.  
 
-I am clinically trained in presurgical neuropsychological assessment, with experience in Wada testing, functional cortical mapping, and cognitive rehabilitation across a range of neurological and neuropsychiatric conditions, including epilepscy, acquired brain injury, neurodengerative (Parkinson's disease, dementia), and neurodevelopmental disorders (ADHD, autism).
-
 ## Research Interests
 
 - Neuroimaging
@@ -29,7 +27,7 @@ I am clinically trained in presurgical neuropsychological assessment, with exper
 
 ## Links
 
-[OSF]([https://github.com/mamudarris](https://osf.io/e834b/))
+[OSF](https://osf.io/e834b/))
 
 [Google Scholar](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en)
 
@@ -44,4 +42,4 @@ I am clinically trained in presurgical neuropsychological assessment, with exper
 ---
 
 ## Contact
-Email: mamudarris@gmail.com
+Email: [mamudarris@gmail.com](mailto:mamudarris@gmail.com)
