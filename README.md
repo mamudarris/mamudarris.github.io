@@ -3,12 +3,22 @@ Personal website of Mohammed Mudarris
 
 # Mohammed Mudarris
 
-PhD Candidate  
-Leiden University
+Personal profile statis webpage using Quatro for html rendering.
 
-## Research Interests
+Includes the following pages:
+- Home
+- Research
+- Publications
+- Presentations
+- CV
 
-- Neuroimaging
-- Motor learning
-- Aging and stroke
-- Sensorimotor
+The workflow invovles a local copy.
+
+Modifications are made by the following commands:
+git pull
+edit .qmd files
+git add .
+git commit -m "Noting the latest change"
+git push
+
+After which GiHub will rebuild the site automatically.
