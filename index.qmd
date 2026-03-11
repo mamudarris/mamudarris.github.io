@@ -6,9 +6,13 @@ title: "Home"
 # Mohammed Mudarris
 
 PhD Candidate  
+
 Health, Medical, Neuropsychology |
+
 Institute of Psychology | 
+
 Faculty of Social and Behavioural Sciences |
+
 Leiden University |
 
 My research focuses on neuroplasticity of motor learning with multisensory stimulation in aging and neurological disease. Using multimodal MRI methods, I examine structural, functional, and network-level brain changes associated with motor learning and rehabilitation.  
@@ -39,6 +43,11 @@ My research focuses on neuroplasticity of motor learning with multisensory stimu
 ---
 
 ## Links
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 ### Research
 [OSF](https://osf.io/e834b/)
 
@@ -46,6 +55,9 @@ My research focuses on neuroplasticity of motor learning with multisensory stimu
 
 [ORCID](https://orcid.org/0000-0003-3649-5423)
 
+:::
+
+::: {.column width="50%"}
 
 ### Socials
 
@@ -55,6 +67,9 @@ My research focuses on neuroplasticity of motor learning with multisensory stimu
 
 [ResearchGate](https://www.researchgate.net/profile/Mohammed-Mudarris)
 
+:::
+
+::::
 
 ---
 
