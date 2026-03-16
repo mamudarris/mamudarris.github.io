@@ -1,12 +1,12 @@
-<div style="text-align:center; font-size:1.6em">
+<div style="text-align:center">
 
-[{{< iconify bi mortarboard >}}](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en) &nbsp;  
-[{{< iconify bi journal-bookmark >}}](https://osf.io/e834b/) &nbsp;  
-[{{< iconify bi person-badge >}}](https://orcid.org/0000-0003-3649-542) &nbsp;  
-[{{< iconify fa researchgate >}}](https://www.researchgate.net/profile/Mohammed-Mudarris) &nbsp;  
-[{{< iconify bi linkedin >}}](https://www.linkedin.com/in/mamudarris/) &nbsp;  
-[{{< iconify bi share >}}](https://bsky.app/profile/mamudarris.bsky.social) &nbsp;  
-[{{< iconify bi envelope >}}](mailto:mamudarris@gmail.com)
+[![](icons/Google-Scholar.svg){width=28px}](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en) &nbsp;  
+[![](icons/OSF.svg){width=28px}](https://osf.io/e834b/) &nbsp;  
+[![](icons/ORCID.svg){width=28px}](https://orcid.org/0000-0003-3649-542) &nbsp;  
+[![](icons/Researchgate.svg){width=28px}]https://www.researchgate.net/profile/Mohammed-Mudarris) &nbsp;  
+[![](icons/LinkedIn.svg){width=28px}](https://www.linkedin.com/in/mamudarris/) &nbsp;  
+[![](icons/Bluesky.svg){width=28px}](https://bsky.app/profile/mamudarris.bsky.social) &nbsp;  
+[![](icons/Mail.svg){width=28px}](mailto:mamudarris@gmail.com)
 
 </div>
 ---
