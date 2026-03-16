@@ -26,7 +26,7 @@ Feb 2018 – May 2019
 **BS in Biopsychology**, University of California, Santa Barbara — CA, USA  
 Aug 2011 – Sep 2015  
 
-- Capstone: *Naturally occurring and administered gonadal hormones predict sexual consummatory behaviors: Sex differences in c-Fos activation in hypothalamic nuclei of adult rats*
+- Research: *Naturally occurring and administered gonadal hormones predict sexual consummatory behaviors: Sex differences in c-Fos activation in hypothalamic nuclei of adult rats*
 
 ---
 
@@ -144,25 +144,16 @@ Sep 2021 – Sep 2025
 
 ## Technical Skills
 
-**Statistical Analysis**
+## Technical Skills
 
-- R  
-- SPSS  
-- JASP  
+**Statistical Analysis**  
+R | SPSS | JASP  
 
-**Neuroimaging and Experimental Tools**
+**Neuroimaging and Experimental Tools**  
+FSL | FreeSurfer | E-Prime | Qualtrics  
 
-- FSL  
-- FreeSurfer  
-- E-Prime  
-- Qualtrics  
-
-**Programming and Systems**
-
-- Linux  
-- Bash  
-- Python  
-- MATLAB  
+**Programming and Systems**  
+Linux | Bash | Python | MATLAB
 
 ---
 
@@ -176,6 +167,4 @@ Sep 2021 – Sep 2025
 
 ## Languages
 
-Arabic — Native  
-English — Proficient  
-Dutch — B1
+Arabic — Native | English — Proficient | Dutch — B1
