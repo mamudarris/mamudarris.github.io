@@ -20,7 +20,7 @@ title: "Mohammed Mudarris"
 </a>
 
 <a href="https://www.linkedin.com/in/mamudarris/">
-<img src="icons/LinkedIn.svg" width="22">
+<img src="icons/Linkedin.svg" width="22">
 </a>
 
 <a href="https://bsky.app/profile/mamudarris.bsky.social">
