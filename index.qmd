@@ -10,12 +10,12 @@ title: "Mohammed Mudarris"
 [![](icons/OSF.svg){width=24px}](https://osf.io/e834b/)
 [![](icons/ORCID.svg){width=24px}](https://orcid.org/0000-0003-3649-542)
 [![](icons/Researchgate.svg){width=24px}](https://www.researchgate.net/profile/Mohammed-Mudarris)
-[![](icons/Linkedin.svg){width=24px}](https://www.linkedin.com/in/mamudarris/)
+[![](icons/LinkedIn.svg){width=24px}](https://www.linkedin.com/in/mamudarris/)
 [![](icons/Bluesky.svg){width=24px}](https://bsky.app/profile/mamudarris.bsky.social)
 [![](icons/Mail.svg){width=24px}](mailto:mamudarris@gmail.com)
 
 </div>
----
+
 ![](Self_portrait.JPG){width=220px}
 
 PhD Candidate  
