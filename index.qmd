@@ -6,12 +6,12 @@ title: "Mohammed Mudarris"
 
 # Mohammed Mudarris
 
-[![](icons/Google-Scholar.svg){width=24px}](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en)
-[![](icons/OSF.svg){width=24px}](https://osf.io/e834b/)
-[![](icons/ORCID.svg){width=24px}](https://orcid.org/0000-0003-3649-542)
-[![](icons/Researchgate.svg){width=24px}](https://www.researchgate.net/profile/Mohammed-Mudarris)
-[![](icons/LinkedIn.svg){width=24px}](https://www.linkedin.com/in/mamudarris/)
-[![](icons/Bluesky.svg){width=24px}](https://bsky.app/profile/mamudarris.bsky.social)
+[![](icons/Google-Scholar.svg){width=24px}](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en) &nbsp;
+[![](icons/OSF.svg){width=24px}](https://osf.io/e834b/) &nbsp;
+[![](icons/ORCID.svg){width=24px}](https://orcid.org/0000-0003-3649-542) &nbsp;
+[![](icons/Researchgate.svg){width=24px}](https://www.researchgate.net/profile/Mohammed-Mudarris) &nbsp;
+[![](icons/Linkedin.svg){width=24px}](https://www.linkedin.com/in/mamudarris/) &nbsp;
+[![](icons/Bluesky.svg){width=24px}](https://bsky.app/profile/mamudarris.bsky.social) &nbsp;
 [![](icons/Mail.svg){width=24px}](mailto:mamudarris@gmail.com)
 
 </div>
