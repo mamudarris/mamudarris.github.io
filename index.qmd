@@ -1,18 +1,35 @@
 ---
 title: "Mohammed Mudarris"
 ---
+<div style="display:flex; justify-content:flex-end; gap:14px; margin-top:-35px;">
 
-<div style="text-align:center">
+<a href="https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en">
+<img src="icons/Google-Scholar.svg" width="22">
+</a>
 
-# Mohammed Mudarris
+<a href="https://osf.io/e834b/">
+<img src="icons/OSF.svg" width="22">
+</a>
 
-[![](icons/Google-Scholar.svg){width=24px}](https://scholar.google.com/citations?user=0kUG_e4AAAAJ&hl=en) &nbsp;
-[![](icons/OSF.svg){width=24px}](https://osf.io/e834b/) &nbsp;
-[![](icons/ORCID.svg){width=24px}](https://orcid.org/0000-0003-3649-542) &nbsp;
-[![](icons/Researchgate.svg){width=24px}](https://www.researchgate.net/profile/Mohammed-Mudarris) &nbsp;
-[![](icons/Linkedin.svg){width=24px}](https://www.linkedin.com/in/mamudarris/) &nbsp;
-[![](icons/Bluesky.svg){width=24px}](https://bsky.app/profile/mamudarris.bsky.social) &nbsp;
-[![](icons/Mail.svg){width=24px}](mailto:mamudarris@gmail.com)
+<a href="https://orcid.org/0000-0003-3649-542">
+<img src="icons/ORCID.svg" width="22">
+</a>
+
+<a href="https://www.researchgate.net/profile/Mohammed-Mudarris">
+<img src="icons/Researchgate.svg" width="22">
+</a>
+
+<a href="https://www.linkedin.com/in/mamudarris/">
+<img src="icons/LinkedIn.svg" width="22">
+</a>
+
+<a href="https://bsky.app/profile/mamudarris.bsky.social">
+<img src="icons/Bluesky.svg" width="22">
+</a>
+
+<a href="mailto:mamudarris@gmail.com">
+<img src="icons/Mail.svg" width="22">
+</a>
 
 </div>
 
